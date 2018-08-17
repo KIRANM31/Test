@@ -1,0 +1,24 @@
+block chain
+
+ai ML deep learning
+
+
+AR VR 
+ 
+Getting and Saving Data
+Get, upload, and save data to your workspace.
+
+3
+Preprocessing Data
+Clean, transform, and normalize your data.
+
+4
+Predictive Modeling
+Learn the steps required for building, scoring and evaluating a predictive model.
+
+5
+Publish a Predictive Model
+Publish and stage your predictive model as an Azure-based service.
+
+
+922470140
